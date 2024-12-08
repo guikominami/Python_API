@@ -1,0 +1,12 @@
+dados: {
+  gui:
+  {
+    nome: gui,
+    idade: 46
+  }
+  gui2:
+  {
+    nome: gui 2,
+    idade: 48
+  }
+}
